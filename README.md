@@ -1,2 +1,2 @@
-# zenn_articles
+# zenn
 zennの記事管理
